@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Molecule Studio
 
-# Run and deploy your AI Studio app
+Interactive 3D molecular structure lab. Look up compounds from PubChem, inspect bonds and geometry, keep notebooks, and export structures.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/13M3s8JpxUNSMkcxp6NnLX03bx4NhJXcp
+- **3D viewer** — ball-and-stick and space-fill rendering with orbit controls
+- **PubChem search** — load molecules by name, formula, CID, or SMILES
+- **Analysis** — bond lengths, angles, composition, and estimated properties
+- **Library** — built-in presets plus saved structures
+- **Notes** — per-molecule lab notebook
+- **Export** — PDB, XYZ, MOL, and JSON
+- **AI tools** — generate, explain, and simulate reactions (uses the app owner’s xAI quota when configured)
 
-## Run Locally
+## Run locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js 22+
 
+```bash
+npm install
+npm run dev
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The app listens on `http://localhost:8080`.
+
+```bash
+npm run build      # production build
+npm run typecheck
+npm test
+```
+
+## Research notes
+
+This repository also contains quantum / fractal analysis experiments and protocols:
+
+- [SPEC.md](SPEC.md)
+- [PROTOCOL.md](PROTOCOL.md)
+- [ANALYSIS.md](ANALYSIS.md)
+- [ENAQT_ANALYSIS.md](ENAQT_ANALYSIS.md)
+- [FINAL_RESEARCH_SUMMARY.md](FINAL_RESEARCH_SUMMARY.md)
+
+Python helpers live under [`scripts/`](scripts/).
+
+## Stack
+
+React 19, TanStack Start, Three.js / React Three Fiber, Tailwind CSS v4, Zustand.

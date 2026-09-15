@@ -1,5 +1,0 @@
-{
-  "name": "Molecule Studio AI",
-  "description": "An interactive 3D chemical structure visualizer that uses the Gemini API to generate accurate molecular geometries from text descriptions.",
-  "requestFramePermissions": []
-}

@@ -1,0 +1,275 @@
+{
+  "molecule_name": "Aspirin",
+  "formula": "C9H8O4",
+  "num_atoms": 21,
+  "num_bonds": 21,
+  "fractal_type": "sierpinski",
+  "level": 3,
+  "route": "ifs",
+  "graph_nodes": 21,
+  "walk_steps": 15,
+  "position_entropy": 3.3114388119840767,
+  "shannon_entropy": 4.392317422778761,
+  "von_neumann_entropy": 3.044522437723424,
+  "participation_ratio": 1.0000000000000004,
+  "stability_score": 0.10450327004132963,
+  "localization": [
+    {
+      "atom_index": 12,
+      "element": "C",
+      "position": [
+        2.0,
+        -0.06,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904769,
+      "log_probability": -4.392317422778758,
+      "localization_rank": 1
+    },
+    {
+      "atom_index": 3,
+      "element": "O",
+      "position": [
+        2.866,
+        -1.56,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904767,
+      "log_probability": -4.392317422778759,
+      "localization_rank": 2
+    },
+    {
+      "atom_index": 5,
+      "element": "C",
+      "position": [
+        5.4641,
+        -0.06,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904766,
+      "log_probability": -4.392317422778759,
+      "localization_rank": 3
+    },
+    {
+      "atom_index": 2,
+      "element": "O",
+      "position": [
+        4.5981,
+        1.44,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904766,
+      "log_probability": -4.392317422778759,
+      "localization_rank": 4
+    },
+    {
+      "atom_index": 0,
+      "element": "O",
+      "position": [
+        3.7321,
+        -0.06,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904765,
+      "log_probability": -4.392317422778759,
+      "localization_rank": 5
+    },
+    {
+      "atom_index": 10,
+      "element": "C",
+      "position": [
+        5.4641,
+        0.94,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904765,
+      "log_probability": -4.392317422778759,
+      "localization_rank": 6
+    },
+    {
+      "atom_index": 11,
+      "element": "C",
+      "position": [
+        2.866,
+        -0.56,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904764,
+      "log_probability": -4.39231742277876,
+      "localization_rank": 7
+    },
+    {
+      "atom_index": 1,
+      "element": "O",
+      "position": [
+        6.3301,
+        1.44,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904764,
+      "log_probability": -4.39231742277876,
+      "localization_rank": 8
+    },
+    {
+      "atom_index": 20,
+      "element": "H",
+      "position": [
+        6.3301,
+        2.06,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904763,
+      "log_probability": -4.39231742277876,
+      "localization_rank": 9
+    },
+    {
+      "atom_index": 14,
+      "element": "H",
+      "position": [
+        6.8671,
+        -0.25,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047616,
+      "log_probability": -4.392317422778761,
+      "localization_rank": 10
+    },
+    {
+      "atom_index": 6,
+      "element": "C",
+      "position": [
+        4.5981,
+        -1.56,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047616,
+      "log_probability": -4.392317422778761,
+      "localization_rank": 11
+    },
+    {
+      "atom_index": 18,
+      "element": "H",
+      "position": [
+        1.4631,
+        0.25,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047616,
+      "log_probability": -4.392317422778761,
+      "localization_rank": 12
+    },
+    {
+      "atom_index": 19,
+      "element": "H",
+      "position": [
+        1.69,
+        -0.5969,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047616,
+      "log_probability": -4.392317422778761,
+      "localization_rank": 13
+    },
+    {
+      "atom_index": 4,
+      "element": "C",
+      "position": [
+        4.5981,
+        -0.56,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904759,
+      "log_probability": -4.392317422778762,
+      "localization_rank": 14
+    },
+    {
+      "atom_index": 13,
+      "element": "H",
+      "position": [
+        4.0611,
+        -1.87,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904759,
+      "log_probability": -4.392317422778762,
+      "localization_rank": 15
+    },
+    {
+      "atom_index": 7,
+      "element": "C",
+      "position": [
+        6.3301,
+        -0.56,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904758,
+      "log_probability": -4.392317422778762,
+      "localization_rank": 16
+    },
+    {
+      "atom_index": 15,
+      "element": "H",
+      "position": [
+        5.4641,
+        -2.68,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047575,
+      "log_probability": -4.392317422778762,
+      "localization_rank": 17
+    },
+    {
+      "atom_index": 9,
+      "element": "C",
+      "position": [
+        6.3301,
+        -1.56,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047575,
+      "log_probability": -4.392317422778762,
+      "localization_rank": 18
+    },
+    {
+      "atom_index": 8,
+      "element": "C",
+      "position": [
+        5.4641,
+        -2.06,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904757,
+      "log_probability": -4.392317422778762,
+      "localization_rank": 19
+    },
+    {
+      "atom_index": 16,
+      "element": "H",
+      "position": [
+        6.8671,
+        -1.87,
+        0.0
+      ],
+      "visit_probability": 0.047619047619047554,
+      "log_probability": -4.3923174227787625,
+      "localization_rank": 20
+    },
+    {
+      "atom_index": 17,
+      "element": "H",
+      "position": [
+        2.31,
+        0.4769,
+        0.0
+      ],
+      "visit_probability": 0.04761904761904753,
+      "log_probability": -4.3923174227787625,
+      "localization_rank": 21
+    }
+  ],
+  "most_reactive_site": "Atom 12 (C) at (2.000, -0.060, 0.000) \u2014 rank 1, probability 0.0476",
+  "literature_reference": "RSC Advances 2014 (C4ra09749a); Heliyon 2022",
+  "dft_homo_lumo_gap_ev": 5.04,
+  "interpretation": "Fractal quantum walk at level=3 on Aspirin (C9H8O4) predicts highest localization at C12. Literature (RSC Advances) identifies C4-C5 bond region as primary HOMO contributor. Walk localization: Atom 12 (C) at (2.000, -0.060, 0.000) \u2014 rank 1, probability 0.0476. DFT HOMO-LUMO gap: 5.04 eV (literature baseline).",
+  "error": null
+}

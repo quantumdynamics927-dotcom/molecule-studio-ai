@@ -1,0 +1,242 @@
+{
+  "benzene": {
+    "molecule": "?",
+    "num_atoms": 12,
+    "source": 0,
+    "sink": 5,
+    "spectral_gap": 0.7675918792439982,
+    "kappa": 5.0,
+    "t_max": 20.0,
+    "dt": 0.005,
+    "n_trajectories": 30,
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "total_absorbed": 0.016341968591900846
+      },
+      {
+        "gamma": 0.1,
+        "total_absorbed": 0.012000608521817247
+      },
+      {
+        "gamma": 0.25,
+        "total_absorbed": 0.009329092399463468
+      },
+      {
+        "gamma": 0.5,
+        "total_absorbed": 0.007568550456742669
+      },
+      {
+        "gamma": 1.0,
+        "total_absorbed": 0.006993022210069677
+      },
+      {
+        "gamma": 2.0,
+        "total_absorbed": 0.006480853311914828
+      },
+      {
+        "gamma": 5.0,
+        "total_absorbed": 0.005655017200126441
+      },
+      {
+        "gamma": 10.0,
+        "total_absorbed": 0.003555140540165169
+      }
+    ],
+    "classical": {
+      "total_absorbed": 0.9999999999999984
+    }
+  },
+  "naphthalene": {
+    "molecule": "?",
+    "num_atoms": 18,
+    "source": 0,
+    "sink": 7,
+    "spectral_gap": 0.9068979584441573,
+    "kappa": 5.0,
+    "t_max": 20.0,
+    "dt": 0.005,
+    "n_trajectories": 30,
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "total_absorbed": 0.00491396113518372
+      },
+      {
+        "gamma": 0.1,
+        "total_absorbed": 0.004628543656759346
+      },
+      {
+        "gamma": 0.25,
+        "total_absorbed": 0.004594737184992796
+      },
+      {
+        "gamma": 0.5,
+        "total_absorbed": 0.004312559875180807
+      },
+      {
+        "gamma": 1.0,
+        "total_absorbed": 0.004061290872035439
+      },
+      {
+        "gamma": 2.0,
+        "total_absorbed": 0.004323228835025772
+      },
+      {
+        "gamma": 5.0,
+        "total_absorbed": 0.0035274928165459
+      },
+      {
+        "gamma": 10.0,
+        "total_absorbed": 0.0030062825052763215
+      }
+    ],
+    "classical": {
+      "total_absorbed": 0.9999999999999993
+    }
+  },
+  "anthracene": {
+    "molecule": "?",
+    "num_atoms": 24,
+    "source": 0,
+    "sink": 13,
+    "spectral_gap": 0.949764074128604,
+    "kappa": 5.0,
+    "t_max": 20.0,
+    "dt": 0.005,
+    "n_trajectories": 30,
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "total_absorbed": 0.0037846122421764106
+      },
+      {
+        "gamma": 0.1,
+        "total_absorbed": 0.0032766042416896846
+      },
+      {
+        "gamma": 0.25,
+        "total_absorbed": 0.002679484431900747
+      },
+      {
+        "gamma": 0.5,
+        "total_absorbed": 0.0023577650219415453
+      },
+      {
+        "gamma": 1.0,
+        "total_absorbed": 0.0018862088882942681
+      },
+      {
+        "gamma": 2.0,
+        "total_absorbed": 0.001777005707484436
+      },
+      {
+        "gamma": 5.0,
+        "total_absorbed": 0.0012534784821319977
+      },
+      {
+        "gamma": 10.0,
+        "total_absorbed": 0.000732503252621397
+      }
+    ],
+    "classical": {
+      "total_absorbed": 0.9999999999999957
+    }
+  },
+  "tetracene": {
+    "molecule": "?",
+    "num_atoms": 30,
+    "source": 0,
+    "sink": 15,
+    "spectral_gap": 0.9686389472545743,
+    "kappa": 5.0,
+    "t_max": 20.0,
+    "dt": 0.005,
+    "n_trajectories": 30,
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "total_absorbed": 0.002628719023959003
+      },
+      {
+        "gamma": 0.1,
+        "total_absorbed": 0.0026083212204515223
+      },
+      {
+        "gamma": 0.25,
+        "total_absorbed": 0.0023306417650356755
+      },
+      {
+        "gamma": 0.5,
+        "total_absorbed": 0.0020327661955217512
+      },
+      {
+        "gamma": 1.0,
+        "total_absorbed": 0.001736314431884341
+      },
+      {
+        "gamma": 2.0,
+        "total_absorbed": 0.0018162968117281539
+      },
+      {
+        "gamma": 5.0,
+        "total_absorbed": 0.001218649919794009
+      },
+      {
+        "gamma": 10.0,
+        "total_absorbed": 0.0008340172328015168
+      }
+    ],
+    "classical": {
+      "total_absorbed": 0.9999999999999913
+    }
+  },
+  "pentacene": {
+    "molecule": "?",
+    "num_atoms": 36,
+    "source": 0,
+    "sink": 21,
+    "spectral_gap": 0.9785845808294318,
+    "kappa": 5.0,
+    "t_max": 20.0,
+    "dt": 0.005,
+    "n_trajectories": 30,
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "total_absorbed": 0.002821354786943675
+      },
+      {
+        "gamma": 0.1,
+        "total_absorbed": 0.0020754081757793992
+      },
+      {
+        "gamma": 0.25,
+        "total_absorbed": 0.001635833613946732
+      },
+      {
+        "gamma": 0.5,
+        "total_absorbed": 0.0010923692668674434
+      },
+      {
+        "gamma": 1.0,
+        "total_absorbed": 0.0008320806329114213
+      },
+      {
+        "gamma": 2.0,
+        "total_absorbed": 0.0006492475746882276
+      },
+      {
+        "gamma": 5.0,
+        "total_absorbed": 0.00032595260893257446
+      },
+      {
+        "gamma": 10.0,
+        "total_absorbed": 0.00011686337770216252
+      }
+    ],
+    "classical": {
+      "total_absorbed": 0.9999999998679407
+    }
+  }
+}

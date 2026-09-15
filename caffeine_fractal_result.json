@@ -1,0 +1,191 @@
+{
+  "molecule_name": "Caffeine",
+  "formula": "C8H10N4O2",
+  "num_atoms": 14,
+  "num_bonds": 17,
+  "fractal_type": "sierpinski",
+  "level": 3,
+  "route": "ifs",
+  "graph_nodes": 14,
+  "walk_steps": 15,
+  "position_entropy": 3.069911859354427,
+  "shannon_entropy": 3.8073549220576037,
+  "von_neumann_entropy": 2.639057329615259,
+  "participation_ratio": 0.9999999999999999,
+  "stability_score": 0.40655946573100543,
+  "localization": [
+    {
+      "atom_index": 7,
+      "element": "C",
+      "position": [
+        2.308,
+        0.87,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857154,
+      "log_probability": -3.807354922057602,
+      "localization_rank": 1
+    },
+    {
+      "atom_index": 0,
+      "element": "N",
+      "position": [
+        1.056,
+        0.088,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857152,
+      "log_probability": -3.8073549220576024,
+      "localization_rank": 2
+    },
+    {
+      "atom_index": 8,
+      "element": "O",
+      "position": [
+        0.03,
+        -2.852,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857151,
+      "log_probability": -3.8073549220576024,
+      "localization_rank": 3
+    },
+    {
+      "atom_index": 4,
+      "element": "C",
+      "position": [
+        -0.007,
+        -1.607,
+        0.0
+      ],
+      "visit_probability": 0.0714285714285715,
+      "log_probability": -3.807354922057603,
+      "localization_rank": 4
+    },
+    {
+      "atom_index": 5,
+      "element": "C",
+      "position": [
+        1.18,
+        -0.924,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857148,
+      "log_probability": -3.8073549220576033,
+      "localization_rank": 5
+    },
+    {
+      "atom_index": 1,
+      "element": "C",
+      "position": [
+        0.022,
+        1.046,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857148,
+      "log_probability": -3.8073549220576033,
+      "localization_rank": 6
+    },
+    {
+      "atom_index": 2,
+      "element": "N",
+      "position": [
+        -1.249,
+        0.449,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857148,
+      "log_probability": -3.8073549220576033,
+      "localization_rank": 7
+    },
+    {
+      "atom_index": 3,
+      "element": "C",
+      "position": [
+        -1.272,
+        -0.942,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857144,
+      "log_probability": -3.8073549220576037,
+      "localization_rank": 8
+    },
+    {
+      "atom_index": 9,
+      "element": "N",
+      "position": [
+        -2.453,
+        -1.585,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857141,
+      "log_probability": -3.8073549220576046,
+      "localization_rank": 9
+    },
+    {
+      "atom_index": 11,
+      "element": "C",
+      "position": [
+        -3.683,
+        -0.865,
+        0.0
+      ],
+      "visit_probability": 0.0714285714285714,
+      "log_probability": -3.8073549220576046,
+      "localization_rank": 10
+    },
+    {
+      "atom_index": 13,
+      "element": "C",
+      "position": [
+        -2.454,
+        -2.982,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857137,
+      "log_probability": -3.8073549220576055,
+      "localization_rank": 11
+    },
+    {
+      "atom_index": 12,
+      "element": "C",
+      "position": [
+        3.5,
+        -2.473,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857137,
+      "log_probability": -3.8073549220576055,
+      "localization_rank": 12
+    },
+    {
+      "atom_index": 10,
+      "element": "C",
+      "position": [
+        3.54,
+        -0.97,
+        0.0
+      ],
+      "visit_probability": 0.0714285714285713,
+      "log_probability": -3.807354922057607,
+      "localization_rank": 13
+    },
+    {
+      "atom_index": 6,
+      "element": "N",
+      "position": [
+        2.326,
+        -1.62,
+        0.0
+      ],
+      "visit_probability": 0.07142857142857127,
+      "log_probability": -3.8073549220576073,
+      "localization_rank": 14
+    }
+  ],
+  "most_reactive_site": "Atom 7 (C) at (2.308, 0.870, 0.000) \u2014 rank 1, probability 0.0714",
+  "literature_reference": "RSC Advances 2014 (C4ra09749a); Heliyon 2022",
+  "dft_homo_lumo_gap_ev": 5.04,
+  "interpretation": "Fractal quantum walk at level=3 on Caffeine (C8H10N4O2) predicts highest localization at C7. Literature (RSC Advances) identifies C4-C5 bond region as primary HOMO contributor. Walk localization: Atom 7 (C) at (2.308, 0.870, 0.000) \u2014 rank 1, probability 0.0714. DFT HOMO-LUMO gap: 5.04 eV (literature baseline).",
+  "error": null
+}

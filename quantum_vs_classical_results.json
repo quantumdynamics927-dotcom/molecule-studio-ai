@@ -1,0 +1,1192 @@
+[
+  {
+    "name": "Caffeine",
+    "formula": "?",
+    "num_atoms": 24,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 1,
+        "top3": [
+          1,
+          4,
+          9
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          4,
+          23
+        ]
+      },
+      "eigenvector": {
+        "top1": 6,
+        "top3": [
+          6,
+          7,
+          2
+        ]
+      },
+      "degree": {
+        "top1": 13,
+        "top3": [
+          13,
+          11,
+          12
+        ]
+      },
+      "pagerank": {
+        "top1": 23,
+        "top3": [
+          23,
+          22,
+          21
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.3333333333333333,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "O",
+      "N",
+      "C"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "N",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "N"
+    ]
+  },
+  {
+    "name": "Theobromine",
+    "formula": "?",
+    "num_atoms": 21,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 1,
+        "top3": [
+          1,
+          9,
+          5
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          4,
+          1
+        ]
+      },
+      "eigenvector": {
+        "top1": 6,
+        "top3": [
+          6,
+          7,
+          2
+        ]
+      },
+      "degree": {
+        "top1": 12,
+        "top3": [
+          12,
+          11,
+          10
+        ]
+      },
+      "pagerank": {
+        "top1": 14,
+        "top3": [
+          14,
+          19,
+          18
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.3333333333333333,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "O",
+      "C",
+      "N"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "N",
+      "O"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "N"
+    ]
+  },
+  {
+    "name": "Theophylline",
+    "formula": "?",
+    "num_atoms": 21,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 3,
+        "top3": [
+          3,
+          1,
+          6
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          3,
+          18
+        ]
+      },
+      "eigenvector": {
+        "top1": 6,
+        "top3": [
+          6,
+          7,
+          2
+        ]
+      },
+      "degree": {
+        "top1": 10,
+        "top3": [
+          10,
+          11,
+          12
+        ]
+      },
+      "pagerank": {
+        "top1": 19,
+        "top3": [
+          19,
+          17,
+          18
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.3333333333333333,
+      "q_eig_top3_overlap": 0.3333333333333333
+    },
+    "quantum_top3_elements": [
+      "N",
+      "O",
+      "C"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "N",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "N"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "formula": "?",
+    "num_atoms": 21,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 4,
+        "top3": [
+          4,
+          3,
+          5
+        ]
+      },
+      "classical_rw": {
+        "top1": 3,
+        "top3": [
+          3,
+          12,
+          0
+        ]
+      },
+      "eigenvector": {
+        "top1": 5,
+        "top3": [
+          5,
+          4,
+          7
+        ]
+      },
+      "degree": {
+        "top1": 12,
+        "top3": [
+          12,
+          11,
+          10
+        ]
+      },
+      "pagerank": {
+        "top1": 19,
+        "top3": [
+          19,
+          17,
+          18
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.3333333333333333,
+      "q_eig_top3_overlap": 0.6666666666666666
+    },
+    "quantum_top3_elements": [
+      "C",
+      "O",
+      "C"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "C",
+      "O"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Acetaminophen",
+    "formula": "?",
+    "num_atoms": 20,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 3,
+        "top3": [
+          3,
+          2,
+          11
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          7,
+          6
+        ]
+      },
+      "eigenvector": {
+        "top1": 3,
+        "top3": [
+          3,
+          5,
+          4
+        ]
+      },
+      "degree": {
+        "top1": 10,
+        "top3": [
+          10,
+          3,
+          9
+        ]
+      },
+      "pagerank": {
+        "top1": 19,
+        "top3": [
+          19,
+          13,
+          14
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": true,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.3333333333333333
+    },
+    "quantum_top3_elements": [
+      "C",
+      "N",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "C",
+      "C"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Benzene",
+    "formula": "?",
+    "num_atoms": 12,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 4,
+        "top3": [
+          4,
+          3,
+          5
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          8,
+          7
+        ]
+      },
+      "eigenvector": {
+        "top1": 0,
+        "top3": [
+          0,
+          1,
+          2
+        ]
+      },
+      "degree": {
+        "top1": 3,
+        "top3": [
+          3,
+          2,
+          5
+        ]
+      },
+      "pagerank": {
+        "top1": 3,
+        "top3": [
+          3,
+          2,
+          1
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ],
+    "classical_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Naphthalene",
+    "formula": "?",
+    "num_atoms": 18,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 0,
+        "top3": [
+          0,
+          12,
+          10
+        ]
+      },
+      "classical_rw": {
+        "top1": 10,
+        "top3": [
+          10,
+          12,
+          0
+        ]
+      },
+      "eigenvector": {
+        "top1": 0,
+        "top3": [
+          0,
+          1,
+          4
+        ]
+      },
+      "degree": {
+        "top1": 8,
+        "top3": [
+          8,
+          9,
+          1
+        ]
+      },
+      "pagerank": {
+        "top1": 14,
+        "top3": [
+          14,
+          15,
+          3
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": true,
+      "q_cl_top3_overlap": 1.0,
+      "q_eig_top3_overlap": 0.3333333333333333
+    },
+    "quantum_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "H",
+      "H",
+      "C"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Adrenaline",
+    "formula": "?",
+    "num_atoms": 26,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 22,
+        "top3": [
+          22,
+          23,
+          21
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          13,
+          6
+        ]
+      },
+      "eigenvector": {
+        "top1": 4,
+        "top3": [
+          4,
+          5,
+          6
+        ]
+      },
+      "degree": {
+        "top1": 6,
+        "top3": [
+          6,
+          12,
+          4
+        ]
+      },
+      "pagerank": {
+        "top1": 22,
+        "top3": [
+          22,
+          23,
+          21
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "H",
+      "H",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "H",
+      "C"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Dopamine",
+    "formula": "?",
+    "num_atoms": 22,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 7,
+        "top3": [
+          7,
+          17,
+          21
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          6,
+          10
+        ]
+      },
+      "eigenvector": {
+        "top1": 3,
+        "top3": [
+          3,
+          4,
+          5
+        ]
+      },
+      "degree": {
+        "top1": 5,
+        "top3": [
+          5,
+          3,
+          8
+        ]
+      },
+      "pagerank": {
+        "top1": 17,
+        "top3": [
+          17,
+          16,
+          10
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "C",
+      "C"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Serotonin",
+    "formula": "?",
+    "num_atoms": 25,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 6,
+        "top3": [
+          6,
+          20,
+          12
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          12,
+          9
+        ]
+      },
+      "eigenvector": {
+        "top1": 3,
+        "top3": [
+          3,
+          4,
+          5
+        ]
+      },
+      "degree": {
+        "top1": 8,
+        "top3": [
+          8,
+          5,
+          7
+        ]
+      },
+      "pagerank": {
+        "top1": 4,
+        "top3": [
+          4,
+          11,
+          6
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.3333333333333333,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "C",
+      "H",
+      "C"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "C",
+      "C"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Glucose",
+    "formula": "?",
+    "num_atoms": 24,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 14,
+        "top3": [
+          14,
+          16,
+          0
+        ]
+      },
+      "classical_rw": {
+        "top1": 4,
+        "top3": [
+          4,
+          16,
+          0
+        ]
+      },
+      "eigenvector": {
+        "top1": 6,
+        "top3": [
+          6,
+          7,
+          8
+        ]
+      },
+      "degree": {
+        "top1": 11,
+        "top3": [
+          11,
+          10,
+          7
+        ]
+      },
+      "pagerank": {
+        "top1": 17,
+        "top3": [
+          17,
+          18,
+          12
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.6666666666666666,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "H",
+      "H",
+      "O"
+    ],
+    "classical_top3_elements": [
+      "O",
+      "H",
+      "O"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Sucrose",
+    "formula": "?",
+    "num_atoms": 45,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 9,
+        "top3": [
+          9,
+          1,
+          0
+        ]
+      },
+      "classical_rw": {
+        "top1": 21,
+        "top3": [
+          21,
+          25,
+          43
+        ]
+      },
+      "eigenvector": {
+        "top1": 11,
+        "top3": [
+          11,
+          12,
+          13
+        ]
+      },
+      "degree": {
+        "top1": 21,
+        "top3": [
+          21,
+          11,
+          14
+        ]
+      },
+      "pagerank": {
+        "top1": 8,
+        "top3": [
+          8,
+          9,
+          34
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "O",
+      "O",
+      "O"
+    ],
+    "classical_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Chloroquine",
+    "formula": "?",
+    "num_atoms": 48,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 20,
+        "top3": [
+          20,
+          15,
+          0
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          20,
+          19
+        ]
+      },
+      "eigenvector": {
+        "top1": 4,
+        "top3": [
+          4,
+          5,
+          6
+        ]
+      },
+      "degree": {
+        "top1": 4,
+        "top3": [
+          4,
+          13,
+          9
+        ]
+      },
+      "pagerank": {
+        "top1": 47,
+        "top3": [
+          47,
+          46,
+          45
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.6666666666666666,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "C",
+      "C",
+      "Cl"
+    ],
+    "classical_top3_elements": [
+      "Cl",
+      "C",
+      "C"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Morphine",
+    "formula": "?",
+    "num_atoms": 40,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 19,
+        "top3": [
+          19,
+          7,
+          1
+        ]
+      },
+      "classical_rw": {
+        "top1": 39,
+        "top3": [
+          39,
+          23,
+          0
+        ]
+      },
+      "eigenvector": {
+        "top1": 4,
+        "top3": [
+          4,
+          5,
+          6
+        ]
+      },
+      "degree": {
+        "top1": 13,
+        "top3": [
+          13,
+          8,
+          10
+        ]
+      },
+      "pagerank": {
+        "top1": 38,
+        "top3": [
+          38,
+          33,
+          34
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "C",
+      "C",
+      "O"
+    ],
+    "classical_top3_elements": [
+      "H",
+      "H",
+      "O"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Nicotine",
+    "formula": "?",
+    "num_atoms": 26,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 0,
+        "top3": [
+          0,
+          12,
+          17
+        ]
+      },
+      "classical_rw": {
+        "top1": 21,
+        "top3": [
+          21,
+          20,
+          19
+        ]
+      },
+      "eigenvector": {
+        "top1": 2,
+        "top3": [
+          2,
+          3,
+          4
+        ]
+      },
+      "degree": {
+        "top1": 4,
+        "top3": [
+          4,
+          3,
+          2
+        ]
+      },
+      "pagerank": {
+        "top1": 21,
+        "top3": [
+          21,
+          20,
+          17
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": false,
+      "q_vs_eig_top1": false,
+      "q_cl_top3_overlap": 0.0,
+      "q_eig_top3_overlap": 0.0
+    },
+    "quantum_top3_elements": [
+      "N",
+      "H",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "H",
+      "H",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "name": "Methane",
+    "formula": "?",
+    "num_atoms": 5,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 0,
+        "top3": [
+          0,
+          3,
+          2
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          4,
+          3
+        ]
+      },
+      "eigenvector": {
+        "top1": 0,
+        "top3": [
+          0,
+          4,
+          3
+        ]
+      },
+      "degree": {
+        "top1": 0,
+        "top3": [
+          0,
+          4,
+          3
+        ]
+      },
+      "pagerank": {
+        "top1": 4,
+        "top3": [
+          4,
+          3,
+          2
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": true,
+      "q_vs_eig_top1": true,
+      "q_cl_top3_overlap": 0.6666666666666666,
+      "q_eig_top3_overlap": 0.6666666666666666
+    },
+    "quantum_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ]
+  },
+  {
+    "name": "Ethene",
+    "formula": "?",
+    "num_atoms": 6,
+    "steps": 10,
+    "initial_node": 0,
+    "methods": {
+      "quantum_walk": {
+        "top1": 0,
+        "top3": [
+          0,
+          1,
+          3
+        ]
+      },
+      "classical_rw": {
+        "top1": 0,
+        "top3": [
+          0,
+          5,
+          4
+        ]
+      },
+      "eigenvector": {
+        "top1": 0,
+        "top3": [
+          0,
+          1,
+          2
+        ]
+      },
+      "degree": {
+        "top1": 1,
+        "top3": [
+          1,
+          0,
+          4
+        ]
+      },
+      "pagerank": {
+        "top1": 5,
+        "top3": [
+          5,
+          4,
+          3
+        ]
+      }
+    },
+    "agreements": {
+      "q_vs_cl_top1": true,
+      "q_vs_eig_top1": true,
+      "q_cl_top3_overlap": 0.3333333333333333,
+      "q_eig_top3_overlap": 0.6666666666666666
+    },
+    "quantum_top3_elements": [
+      "C",
+      "C",
+      "H"
+    ],
+    "classical_top3_elements": [
+      "C",
+      "H",
+      "H"
+    ],
+    "eigenvector_top3_elements": [
+      "C",
+      "C",
+      "H"
+    ]
+  }
+]

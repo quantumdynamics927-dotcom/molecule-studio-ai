@@ -1,0 +1,174 @@
+{
+  "benzene": {
+    "name": "benzene",
+    "n": 12,
+    "source": 0,
+    "sink": 5,
+    "kappa": 5.0,
+    "t_max": 100.0,
+    "classical": {
+      "f=0.25_time": 3.219739738059287,
+      "f=0.5_time": 6.651056949960174,
+      "f=0.75_time": 12.24158396444997
+    },
+    "quantum": {
+      "g=0.0": {
+        "f=0.25_time": 5.156676315083843,
+        "f=0.5_time": 13.189358866686941,
+        "f=0.75_time": 29.141107441330416,
+        "final_absorbed": 0.9467185144847765
+      },
+      "g=0.1": {
+        "f=0.25_time": 6.729101514277842,
+        "f=0.5_time": 18.671014534893732,
+        "f=0.75_time": 52.05432087169838,
+        "final_absorbed": 0.8985860291252505
+      },
+      "g=0.25": {
+        "f=0.25_time": 7.599140846740657,
+        "f=0.5_time": 23.434177795678266,
+        "f=0.75_time": 52.351360952576,
+        "final_absorbed": 0.9200947829160712
+      },
+      "g=0.5": {
+        "f=0.25_time": 9.967646197702575,
+        "f=0.5_time": 25.937057617457572,
+        "f=0.75_time": 53.18077537081676,
+        "final_absorbed": 0.9240707954810649
+      },
+      "g=1.0": {
+        "f=0.25_time": 12.185435038759724,
+        "f=0.5_time": 28.405539980958096,
+        "f=0.75_time": 56.02272418111415,
+        "final_absorbed": 0.9171358161183549
+      },
+      "g=2.0": {
+        "f=0.25_time": 14.314005369232262,
+        "f=0.5_time": 31.69545899247185,
+        "f=0.75_time": 61.31177022752481,
+        "final_absorbed": 0.8989431946489563
+      },
+      "g=5.0": {
+        "f=0.25_time": 19.140230172709355,
+        "f=0.5_time": 40.71891451163952,
+        "f=0.75_time": 77.35798117746378,
+        "final_absorbed": 0.8371196305780199
+      },
+      "g=10.0": {
+        "f=0.25_time": 27.193437979991405,
+        "f=0.5_time": 56.7562356363293,
+        "f=0.75_time": Infinity,
+        "final_absorbed": 0.7265947538030425
+      }
+    },
+    "best": {
+      "f=0.25_time": {
+        "best_gamma": 0.0,
+        "best_time": 5.156676315083843,
+        "beats_classical": false,
+        "beats_pure_quantum": false,
+        "enaqt_sig": false
+      },
+      "f=0.5_time": {
+        "best_gamma": 0.0,
+        "best_time": 13.189358866686941,
+        "beats_classical": false,
+        "beats_pure_quantum": false,
+        "enaqt_sig": false
+      },
+      "f=0.75_time": {
+        "best_gamma": 0.0,
+        "best_time": 29.141107441330416,
+        "beats_classical": false,
+        "beats_pure_quantum": false,
+        "enaqt_sig": false
+      }
+    }
+  },
+  "naphthalene": {
+    "name": "naphthalene",
+    "n": 18,
+    "source": 0,
+    "sink": 7,
+    "kappa": 5.0,
+    "t_max": 100.0,
+    "classical": {
+      "f=0.25_time": 3.844956294602109,
+      "f=0.5_time": 10.179937167525033,
+      "f=0.75_time": 22.707075463820974
+    },
+    "quantum": {
+      "g=0.0": {
+        "f=0.25_time": 19.101035458356513,
+        "f=0.5_time": 56.73220657698242,
+        "f=0.75_time": Infinity,
+        "final_absorbed": 0.6096757992052473
+      },
+      "g=0.1": {
+        "f=0.25_time": 18.243304025508213,
+        "f=0.5_time": 45.2284350948381,
+        "f=0.75_time": 93.41200719641512,
+        "final_absorbed": 0.7725516700254165
+      },
+      "g=0.25": {
+        "f=0.25_time": 17.526472087210664,
+        "f=0.5_time": 43.44565774544926,
+        "f=0.75_time": 87.87365231713235,
+        "final_absorbed": 0.793091737484799
+      },
+      "g=0.5": {
+        "f=0.25_time": 17.812354778049723,
+        "f=0.5_time": 43.78207724038465,
+        "f=0.75_time": 88.14953919833934,
+        "final_absorbed": 0.7922532593610444
+      },
+      "g=1.0": {
+        "f=0.25_time": 18.870865939972195,
+        "f=0.5_time": 46.14601917378807,
+        "f=0.75_time": 92.75902172566829,
+        "final_absorbed": 0.775520543188636
+      },
+      "g=2.0": {
+        "f=0.25_time": 20.773645899365267,
+        "f=0.5_time": 50.91081077000473,
+        "f=0.75_time": Infinity,
+        "final_absorbed": 0.7411545048357308
+      },
+      "g=5.0": {
+        "f=0.25_time": 26.1236860018487,
+        "f=0.5_time": 65.08857552558175,
+        "f=0.75_time": Infinity,
+        "final_absorbed": 0.6497798570195168
+      },
+      "g=10.0": {
+        "f=0.25_time": 35.45316504581724,
+        "f=0.5_time": 89.9015635127513,
+        "f=0.75_time": Infinity,
+        "final_absorbed": 0.5348394019282272
+      }
+    },
+    "best": {
+      "f=0.25_time": {
+        "best_gamma": 0.25,
+        "best_time": 17.526472087210664,
+        "beats_classical": false,
+        "beats_pure_quantum": true,
+        "enaqt_sig": false
+      },
+      "f=0.5_time": {
+        "best_gamma": 0.25,
+        "best_time": 43.44565774544926,
+        "beats_classical": false,
+        "beats_pure_quantum": true,
+        "enaqt_sig": false
+      },
+      "f=0.75_time": {
+        "best_gamma": 0.25,
+        "best_time": 87.87365231713235,
+        "beats_classical": false,
+        "beats_pure_quantum": true,
+        "enaqt_sig": false
+      }
+    }
+  }
+}

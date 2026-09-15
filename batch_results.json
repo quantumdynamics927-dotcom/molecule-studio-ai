@@ -1,0 +1,495 @@
+[
+  {
+    "name": "Caffeine",
+    "formula": "C8H10N4O2",
+    "num_atoms": 24,
+    "num_bonds": 25,
+    "walk_steps": 10,
+    "position_entropy": 3.691930448835095,
+    "shannon_entropy": 3.6919304488350955,
+    "von_neumann_entropy": 2.5590511814334596,
+    "participation_ratio": 0.3702525765935049,
+    "stability_score": 0.1461915010897139,
+    "top_site_1": [
+      "O",
+      1,
+      0.24975819056168688
+    ],
+    "top_site_2": [
+      "N",
+      4,
+      0.13047196597043542
+    ],
+    "top_site_3": [
+      "C",
+      9,
+      0.09361181769672902
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Theobromine",
+    "formula": "C7H8N4O2",
+    "num_atoms": 21,
+    "num_bonds": 22,
+    "walk_steps": 10,
+    "position_entropy": 3.338993496534386,
+    "shannon_entropy": 3.338993496534386,
+    "von_neumann_entropy": 2.3144139280308034,
+    "participation_ratio": 0.3477605383457569,
+    "stability_score": 0.16040200176175168,
+    "top_site_1": [
+      "O",
+      1,
+      0.26970871133262303
+    ],
+    "top_site_2": [
+      "C",
+      9,
+      0.13883977294331296
+    ],
+    "top_site_3": [
+      "N",
+      5,
+      0.12714261078304187
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Theophylline",
+    "formula": "C7H8N4O2",
+    "num_atoms": 21,
+    "num_bonds": 22,
+    "walk_steps": 10,
+    "position_entropy": 4.021437654239172,
+    "shannon_entropy": 4.021437654239172,
+    "von_neumann_entropy": 2.7874481718334825,
+    "participation_ratio": 0.6584482996113061,
+    "stability_score": 0.18990411356117545,
+    "top_site_1": [
+      "N",
+      3,
+      0.1342958970634797
+    ],
+    "top_site_2": [
+      "O",
+      1,
+      0.11515040081415794
+    ],
+    "top_site_3": [
+      "C",
+      6,
+      0.08238482698675981
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Aspirin",
+    "formula": "C9H8O4",
+    "num_atoms": 21,
+    "num_bonds": 21,
+    "walk_steps": 10,
+    "position_entropy": 3.157972409519765,
+    "shannon_entropy": 3.157972409519765,
+    "von_neumann_entropy": 2.1889396719447225,
+    "participation_ratio": 0.27484383739901025,
+    "stability_score": 0.10450327004132963,
+    "top_site_1": [
+      "C",
+      4,
+      0.34042417992494917
+    ],
+    "top_site_2": [
+      "O",
+      3,
+      0.17437482225238846
+    ],
+    "top_site_3": [
+      "C",
+      5,
+      0.1056773202955831
+    ],
+    "has_c4_in_top3": true,
+    "error": null
+  },
+  {
+    "name": "Acetaminophen",
+    "formula": "C8H9NO2",
+    "num_atoms": 20,
+    "num_bonds": 20,
+    "walk_steps": 10,
+    "position_entropy": 3.280945582105255,
+    "shannon_entropy": 3.280945582105255,
+    "von_neumann_entropy": 2.274178179806866,
+    "participation_ratio": 0.34744989003411253,
+    "stability_score": 0.10853315855787932,
+    "top_site_1": [
+      "C",
+      3,
+      0.253695371638928
+    ],
+    "top_site_2": [
+      "N",
+      2,
+      0.1956113742806961
+    ],
+    "top_site_3": [
+      "H",
+      11,
+      0.12172951261906334
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Benzene",
+    "formula": "C6H6",
+    "num_atoms": 12,
+    "num_bonds": 12,
+    "walk_steps": 10,
+    "position_entropy": 2.8378963819251593,
+    "shannon_entropy": 2.8378963819251593,
+    "von_neumann_entropy": 1.9670798758526935,
+    "participation_ratio": 0.47516959179842627,
+    "stability_score": 0.5729490168751575,
+    "top_site_1": [
+      "C",
+      4,
+      0.24765527998591516
+    ],
+    "top_site_2": [
+      "C",
+      3,
+      0.24765527998591505
+    ],
+    "top_site_3": [
+      "C",
+      5,
+      0.16252171597443274
+    ],
+    "has_c4_in_top3": true,
+    "error": null
+  },
+  {
+    "name": "Naphthalene",
+    "formula": "C10H8",
+    "num_atoms": 18,
+    "num_bonds": 19,
+    "walk_steps": 10,
+    "position_entropy": 2.5698050344669725,
+    "shannon_entropy": 2.569805034466973,
+    "von_neumann_entropy": 1.781253114229535,
+    "participation_ratio": 0.19116884966134673,
+    "stability_score": 0.25936362707219696,
+    "top_site_1": [
+      "C",
+      0,
+      0.5077112107889583
+    ],
+    "top_site_2": [
+      "H",
+      12,
+      0.08734590968504256
+    ],
+    "top_site_3": [
+      "H",
+      10,
+      0.08734590968504242
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Adrenaline",
+    "formula": "C9H13NO3",
+    "num_atoms": 26,
+    "num_bonds": 26,
+    "walk_steps": 10,
+    "position_entropy": 4.098387193346093,
+    "shannon_entropy": 4.098387193346094,
+    "von_neumann_entropy": 2.8407855279108314,
+    "participation_ratio": 0.5966243591578375,
+    "stability_score": 0.07689757503150349,
+    "top_site_1": [
+      "H",
+      22,
+      0.08591351821365606
+    ],
+    "top_site_2": [
+      "H",
+      23,
+      0.08591351821365603
+    ],
+    "top_site_3": [
+      "H",
+      21,
+      0.08591351821365603
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Dopamine",
+    "formula": "C8H11NO2",
+    "num_atoms": 22,
+    "num_bonds": 22,
+    "walk_steps": 10,
+    "position_entropy": 3.544377235259005,
+    "shannon_entropy": 3.5443772352590046,
+    "von_neumann_entropy": 2.4567750874606324,
+    "participation_ratio": 0.4048242501037818,
+    "stability_score": 0.10809363687302899,
+    "top_site_1": [
+      "C",
+      7,
+      0.20223707609662778
+    ],
+    "top_site_2": [
+      "H",
+      17,
+      0.18260326859143683
+    ],
+    "top_site_3": [
+      "H",
+      21,
+      0.1036064309712494
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Serotonin",
+    "formula": "C10H12N2O",
+    "num_atoms": 25,
+    "num_bonds": 26,
+    "walk_steps": 10,
+    "position_entropy": 3.6814168259730167,
+    "shannon_entropy": 3.6814168259730167,
+    "von_neumann_entropy": 2.551763693389139,
+    "participation_ratio": 0.4025796189020286,
+    "stability_score": 0.09491676944938185,
+    "top_site_1": [
+      "C",
+      6,
+      0.18180270940060778
+    ],
+    "top_site_2": [
+      "H",
+      20,
+      0.15178681180068845
+    ],
+    "top_site_3": [
+      "C",
+      12,
+      0.10444365931281276
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Glucose",
+    "formula": "C6H12O6",
+    "num_atoms": 24,
+    "num_bonds": 24,
+    "walk_steps": 10,
+    "position_entropy": 3.516610719032721,
+    "shannon_entropy": 3.5166107190327214,
+    "von_neumann_entropy": 2.437528805024413,
+    "participation_ratio": 0.33004137520476634,
+    "stability_score": 0.1654178378197046,
+    "top_site_1": [
+      "H",
+      14,
+      0.24058696258107887
+    ],
+    "top_site_2": [
+      "H",
+      16,
+      0.16961162163690058
+    ],
+    "top_site_3": [
+      "O",
+      0,
+      0.13100933774998277
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Sucrose",
+    "formula": "C12H22O11",
+    "num_atoms": 45,
+    "num_bonds": 46,
+    "walk_steps": 10,
+    "position_entropy": 4.423898005942038,
+    "shannon_entropy": 4.423898005942038,
+    "von_neumann_entropy": 3.066412429903489,
+    "participation_ratio": 0.3662835506350531,
+    "stability_score": 0.039531681431188764,
+    "top_site_1": [
+      "O",
+      9,
+      0.11254784164248907
+    ],
+    "top_site_2": [
+      "O",
+      1,
+      0.10653555073662752
+    ],
+    "top_site_3": [
+      "O",
+      0,
+      0.0915564405255324
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Chloroquine",
+    "formula": "C18H26N3Cl",
+    "num_atoms": 48,
+    "num_bonds": 49,
+    "walk_steps": 10,
+    "position_entropy": 3.1366602098942544,
+    "shannon_entropy": 3.1366602098942544,
+    "von_neumann_entropy": 2.174167180862769,
+    "participation_ratio": 0.10494655138732223,
+    "stability_score": 0.024271447271976106,
+    "top_site_1": [
+      "C",
+      20,
+      0.3969440814049835
+    ],
+    "top_site_2": [
+      "C",
+      15,
+      0.11952506707606263
+    ],
+    "top_site_3": [
+      "Cl",
+      0,
+      0.11158045455308378
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Morphine",
+    "formula": "C17H19NO3",
+    "num_atoms": 40,
+    "num_bonds": 44,
+    "walk_steps": 10,
+    "position_entropy": 4.201822308864649,
+    "shannon_entropy": 4.20182230886465,
+    "von_neumann_entropy": 2.9124812866034118,
+    "participation_ratio": 0.2540939944505559,
+    "stability_score": 0.14039271651492952,
+    "top_site_1": [
+      "C",
+      19,
+      0.25929584172307796
+    ],
+    "top_site_2": [
+      "C",
+      7,
+      0.09600392022989815
+    ],
+    "top_site_3": [
+      "O",
+      1,
+      0.07660342054174889
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Nicotine",
+    "formula": "C10H14N2",
+    "num_atoms": 26,
+    "num_bonds": 27,
+    "walk_steps": 10,
+    "position_entropy": 3.609352066147787,
+    "shannon_entropy": 3.6093520661477876,
+    "von_neumann_entropy": 2.501812208298552,
+    "participation_ratio": 0.343777729176551,
+    "stability_score": 0.10685245954850588,
+    "top_site_1": [
+      "N",
+      0,
+      0.22900313619713789
+    ],
+    "top_site_2": [
+      "H",
+      12,
+      0.15112442162426312
+    ],
+    "top_site_3": [
+      "H",
+      17,
+      0.08582917753015626
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Methane",
+    "formula": "CH4",
+    "num_atoms": 5,
+    "num_bonds": 4,
+    "walk_steps": 10,
+    "position_entropy": -0.0,
+    "shannon_entropy": -0.0,
+    "von_neumann_entropy": -0.0,
+    "participation_ratio": 0.2,
+    "stability_score": 1.5,
+    "top_site_1": [
+      "C",
+      0,
+      1.0
+    ],
+    "top_site_2": [
+      "H",
+      3,
+      2.87146825984969e-30
+    ],
+    "top_site_3": [
+      "H",
+      2,
+      2.6887554835087223e-30
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  },
+  {
+    "name": "Ethene",
+    "formula": "C2H4",
+    "num_atoms": 6,
+    "num_bonds": 5,
+    "walk_steps": 10,
+    "position_entropy": 1.7079764393853023,
+    "shannon_entropy": 1.7079764393853023,
+    "von_neumann_entropy": 1.1838790534227366,
+    "participation_ratio": 0.3770739064856718,
+    "stability_score": 0.6576707807867543,
+    "top_site_1": [
+      "C",
+      0,
+      0.6399999999999995
+    ],
+    "top_site_2": [
+      "C",
+      1,
+      0.11999999999999963
+    ],
+    "top_site_3": [
+      "H",
+      3,
+      0.09000000000000041
+    ],
+    "has_c4_in_top3": false,
+    "error": null
+  }
+]

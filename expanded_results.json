@@ -1,0 +1,6078 @@
+[
+  {
+    "name": "caffeine",
+    "num_atoms": 24,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        4,
+        9
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        23
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 4,
+      "top3": [
+        4,
+        6,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "stability_score": 0.1461915010897139,
+    "participation_ratio": 0.3702525765935049,
+    "topological_entropy": null
+  },
+  {
+    "name": "theobromine",
+    "num_atoms": 21,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        9,
+        5
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "N"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 4,
+      "top3": [
+        4,
+        6,
+        3
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "stability_score": 0.16040200176175168,
+    "participation_ratio": 0.3477605383457569,
+    "topological_entropy": null
+  },
+  {
+    "name": "theophylline",
+    "num_atoms": 21,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 3,
+      "top3": [
+        3,
+        1,
+        6
+      ],
+      "top3_elements": [
+        "N",
+        "O",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        18
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        7,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "stability_score": 0.18990411356117545,
+    "participation_ratio": 0.6584482996113061,
+    "topological_entropy": null
+  },
+  {
+    "name": "aspirin",
+    "num_atoms": 21,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 4,
+      "top3": [
+        4,
+        3,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        12,
+        0
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 12,
+      "top3": [
+        12,
+        6,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 5,
+      "top3": [
+        5,
+        4,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.10450327004132963,
+    "participation_ratio": 0.27484383739901025,
+    "topological_entropy": null
+  },
+  {
+    "name": "acetaminophen",
+    "num_atoms": 20,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        11
+      ],
+      "top3_elements": [
+        "C",
+        "N",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        5,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.10853315855787932,
+    "participation_ratio": 0.34744989003411253,
+    "topological_entropy": null
+  },
+  {
+    "name": "benzene",
+    "num_atoms": 12,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 4,
+      "top3": [
+        4,
+        3,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        8,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.5729490168751575,
+    "participation_ratio": 0.47516959179842627,
+    "topological_entropy": null
+  },
+  {
+    "name": "naphthalene",
+    "num_atoms": 18,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        12,
+        10
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        12,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        8,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.25936362707219696,
+    "participation_ratio": 0.19116884966134673,
+    "topological_entropy": null
+  },
+  {
+    "name": "adrenaline",
+    "num_atoms": 26,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 22,
+      "top3": [
+        22,
+        23,
+        21
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        13,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 6,
+      "top3": [
+        6,
+        0,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.07689757503150349,
+    "participation_ratio": 0.5966243591578375,
+    "topological_entropy": null
+  },
+  {
+    "name": "dopamine",
+    "num_atoms": 22,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 7,
+      "top3": [
+        7,
+        17,
+        21
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        10
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        10
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.10809363687302899,
+    "participation_ratio": 0.4048242501037818,
+    "topological_entropy": null
+  },
+  {
+    "name": "serotonin",
+    "num_atoms": 25,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        20,
+        12
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        12,
+        9
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        12,
+        9
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.09491676944938185,
+    "participation_ratio": 0.4025796189020286,
+    "topological_entropy": null
+  },
+  {
+    "name": "glucose",
+    "num_atoms": 24,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 14,
+      "top3": [
+        14,
+        16,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 4,
+      "top3": [
+        4,
+        16,
+        0
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 11,
+      "top3": [
+        11,
+        9,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.1654178378197046,
+    "participation_ratio": 0.33004137520476634,
+    "topological_entropy": null
+  },
+  {
+    "name": "sucrose",
+    "num_atoms": 45,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 9,
+      "top3": [
+        9,
+        1,
+        0
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 21,
+      "top3": [
+        21,
+        25,
+        43
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 21,
+      "top3": [
+        21,
+        20,
+        13
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 11,
+      "top3": [
+        11,
+        12,
+        13
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.039531681431188764,
+    "participation_ratio": 0.3662835506350531,
+    "topological_entropy": null
+  },
+  {
+    "name": "chloroquine",
+    "num_atoms": 48,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 20,
+      "top3": [
+        20,
+        15,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "Cl"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        20,
+        19
+      ],
+      "top3_elements": [
+        "Cl",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 20,
+      "top3": [
+        20,
+        19,
+        12
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.024271447271976106,
+    "participation_ratio": 0.10494655138732223,
+    "topological_entropy": null
+  },
+  {
+    "name": "morphine",
+    "num_atoms": 40,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 19,
+      "top3": [
+        19,
+        7,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 39,
+      "top3": [
+        39,
+        23,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 13,
+      "top3": [
+        13,
+        19,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.14039271651492952,
+    "participation_ratio": 0.2540939944505559,
+    "topological_entropy": null
+  },
+  {
+    "name": "nicotine",
+    "num_atoms": 26,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        12,
+        17
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 21,
+      "top3": [
+        21,
+        20,
+        19
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.10685245954850588,
+    "participation_ratio": 0.343777729176551,
+    "topological_entropy": null
+  },
+  {
+    "name": "methane",
+    "num_atoms": 5,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "stability_score": 1.5,
+    "participation_ratio": 0.2,
+    "topological_entropy": null
+  },
+  {
+    "name": "ethene",
+    "num_atoms": 6,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        5,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        5,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "stability_score": 0.6576707807867543,
+    "participation_ratio": 0.3770739064856718,
+    "topological_entropy": null
+  },
+  {
+    "name": "anthracene",
+    "num_atoms": 24,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        14
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 16,
+      "top3": [
+        16,
+        10,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        0,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.14876059910190037,
+    "participation_ratio": 0.2980986761850913,
+    "topological_entropy": null
+  },
+  {
+    "name": "tetracene",
+    "num_atoms": 30,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        23,
+        25
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 18,
+      "top3": [
+        18,
+        20,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.0962712642444502,
+    "participation_ratio": 0.3633659834005388,
+    "topological_entropy": null
+  },
+  {
+    "name": "pentacene",
+    "num_atoms": 36,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 29,
+      "top3": [
+        29,
+        3,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 24,
+      "top3": [
+        24,
+        22,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        11,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.06730669463972215,
+    "participation_ratio": 0.3448698467055764,
+    "topological_entropy": null
+  },
+  {
+    "name": "ethane",
+    "num_atoms": 8,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 5,
+      "top3": [
+        5,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "stability_score": 0.5313730334031143,
+    "participation_ratio": 0.6634742085105392,
+    "topological_entropy": null
+  },
+  {
+    "name": "propane",
+    "num_atoms": 11,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        10
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        10
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.3130682287831197,
+    "participation_ratio": 0.09511824508424023,
+    "topological_entropy": null
+  },
+  {
+    "name": "butane",
+    "num_atoms": 14,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 9,
+      "top3": [
+        9,
+        10,
+        8
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.2038645068556904,
+    "participation_ratio": 0.388969701001168,
+    "topological_entropy": null
+  },
+  {
+    "name": "pentane",
+    "num_atoms": 17,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 4,
+      "top3": [
+        4,
+        3,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        9
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.14253368052687235,
+    "participation_ratio": 0.20420525133411105,
+    "topological_entropy": null
+  },
+  {
+    "name": "hexane",
+    "num_atoms": 20,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        10,
+        11
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.10495487497745982,
+    "participation_ratio": 0.2846201162043023,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyridine",
+    "num_atoms": 11,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        10,
+        9
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        9,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "N"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.5729490168751576,
+    "participation_ratio": 0.6859663426564204,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyrrole",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        7
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.7132138560236342,
+    "participation_ratio": 0.36687752431005594,
+    "topological_entropy": null
+  },
+  {
+    "name": "furan",
+    "num_atoms": 9,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.7132138560236343,
+    "participation_ratio": 0.5904717215491009,
+    "topological_entropy": null
+  },
+  {
+    "name": "thiophene",
+    "num_atoms": 9,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "S"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "S"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "S"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.7132138560236343,
+    "participation_ratio": 0.5904717215491009,
+    "topological_entropy": null
+  },
+  {
+    "name": "quinoline",
+    "num_atoms": 17,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        4,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 16,
+      "top3": [
+        16,
+        8,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "N"
+      ]
+    },
+    "coined_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        1,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.26769934496977343,
+    "participation_ratio": 0.2981735430972541,
+    "topological_entropy": null
+  },
+  {
+    "name": "isoquinoline",
+    "num_atoms": 17,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 16,
+      "top3": [
+        16,
+        13,
+        9
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 16,
+      "top3": [
+        16,
+        0,
+        13
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 5,
+      "top3": [
+        5,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.28392612494181774,
+    "participation_ratio": 0.37335261398699826,
+    "topological_entropy": null
+  },
+  {
+    "name": "water",
+    "num_atoms": 3,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "stability_score": 1.5,
+    "participation_ratio": 0.3333333333333333,
+    "topological_entropy": null
+  },
+  {
+    "name": "hydrogen sulfide",
+    "num_atoms": 3,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "stability_score": 1.5,
+    "participation_ratio": 0.3333333333333333,
+    "topological_entropy": null
+  },
+  {
+    "name": "ammonia",
+    "num_atoms": 4,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "stability_score": 1.4999999999999993,
+    "participation_ratio": 0.25,
+    "topological_entropy": null
+  },
+  {
+    "name": "methanol",
+    "num_atoms": 6,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        5,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "H"
+      ]
+    },
+    "stability_score": 0.7287946059970635,
+    "participation_ratio": 0.17435238800733863,
+    "topological_entropy": null
+  },
+  {
+    "name": "methanethiol",
+    "num_atoms": 6,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        5,
+        1
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        2
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        2
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "S",
+        "H"
+      ]
+    },
+    "stability_score": 0.7287946059970635,
+    "participation_ratio": 0.17435238800733863,
+    "topological_entropy": null
+  },
+  {
+    "name": "toluene",
+    "num_atoms": 15,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 7,
+      "top3": [
+        7,
+        8,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 9,
+      "top3": [
+        9,
+        10,
+        11
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.2580394895135053,
+    "participation_ratio": 0.4359078399726813,
+    "topological_entropy": null
+  },
+  {
+    "name": "phenol",
+    "num_atoms": 13,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        10,
+        9
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.3935348132616727,
+    "participation_ratio": 0.1806506869715942,
+    "topological_entropy": null
+  },
+  {
+    "name": "aniline",
+    "num_atoms": 14,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        11,
+        13
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.306639810399533,
+    "participation_ratio": 0.5410592153066678,
+    "topological_entropy": null
+  },
+  {
+    "name": "styrene",
+    "num_atoms": 16,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 13,
+      "top3": [
+        13,
+        0,
+        9
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 13,
+      "top3": [
+        13,
+        0,
+        7
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.1902118981815868,
+    "participation_ratio": 0.5738311663587736,
+    "topological_entropy": null
+  },
+  {
+    "name": "biphenyl",
+    "num_atoms": 22,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        8,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 12,
+      "top3": [
+        12,
+        14,
+        6
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 6,
+      "top3": [
+        6,
+        8,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.11561199798413445,
+    "participation_ratio": 0.45555650733912406,
+    "topological_entropy": null
+  },
+  {
+    "name": "ibuprofen",
+    "num_atoms": 33,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 32,
+      "top3": [
+        32,
+        14,
+        31
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.05260331463341188,
+    "participation_ratio": 0.2469920352722086,
+    "topological_entropy": null
+  },
+  {
+    "name": "warfarin",
+    "num_atoms": 39,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        5,
+        8
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        0,
+        18
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 18,
+      "top3": [
+        18,
+        9,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.05648384674355932,
+    "participation_ratio": 0.33462575479984924,
+    "topological_entropy": null
+  },
+  {
+    "name": "cortisol",
+    "num_atoms": 56,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 3,
+      "top3": [
+        3,
+        0,
+        32
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        21,
+        14
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 14,
+      "top3": [
+        14,
+        0,
+        21
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 5,
+      "top3": [
+        5,
+        6,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.053929794739862605,
+    "participation_ratio": 0.22051119181839535,
+    "topological_entropy": null
+  },
+  {
+    "name": "acetophenone",
+    "num_atoms": 17,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        4,
+        13
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        1,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.16359016531742043,
+    "participation_ratio": 0.5062871797922381,
+    "topological_entropy": null
+  },
+  {
+    "name": "benzaldehyde",
+    "num_atoms": 14,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        13,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 13,
+      "top3": [
+        13,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        13,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.30663981039953286,
+    "participation_ratio": 0.4268642184569611,
+    "topological_entropy": null
+  },
+  {
+    "name": "nitrobenzene",
+    "num_atoms": 14,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        8
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        1,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.3066398103995337,
+    "participation_ratio": 0.4268642184569624,
+    "topological_entropy": null
+  },
+  {
+    "name": "anisole",
+    "num_atoms": 16,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 15,
+      "top3": [
+        15,
+        14,
+        13
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.16977385035752357,
+    "participation_ratio": 0.3614229599942451,
+    "topological_entropy": null
+  },
+  {
+    "name": "nitromethane",
+    "num_atoms": 7,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        1,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "N",
+        "H"
+      ]
+    },
+    "stability_score": 0.5974813021752684,
+    "participation_ratio": 0.6188062195680832,
+    "topological_entropy": null
+  },
+  {
+    "name": "dimethyl sulfide",
+    "num_atoms": 9,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        7
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        8,
+        7
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        1,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "S"
+      ]
+    },
+    "stability_score": 0.31306822878311974,
+    "participation_ratio": 0.7111111111111106,
+    "topological_entropy": null
+  },
+  {
+    "name": "dimethyl sulfoxide",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "O",
+        "S",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        8
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        8
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "S",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.31306822878311963,
+    "participation_ratio": 0.2670329670329676,
+    "topological_entropy": null
+  },
+  {
+    "name": "acetaldehyde",
+    "num_atoms": 7,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 6,
+      "top3": [
+        6,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "stability_score": 0.5974813021752683,
+    "participation_ratio": 0.6188062195680829,
+    "topological_entropy": null
+  },
+  {
+    "name": "acetone",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        9,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.31306822878312,
+    "participation_ratio": 0.2696670776818747,
+    "topological_entropy": null
+  },
+  {
+    "name": "formaldehyde",
+    "num_atoms": 4,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "stability_score": 1.5,
+    "participation_ratio": 0.6136363636363634,
+    "topological_entropy": null
+  },
+  {
+    "name": "carbon disulfide",
+    "num_atoms": 3,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "S",
+        "C",
+        "S"
+      ]
+    },
+    "plain_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "S",
+        "S",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "S",
+        "S",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        1,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "S",
+        "S"
+      ]
+    },
+    "stability_score": 1.5,
+    "participation_ratio": 0.3333333333333333,
+    "topological_entropy": null
+  },
+  {
+    "name": "hydrogen cyanide",
+    "num_atoms": 3,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 2,
+      "top3": [
+        2,
+        1,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "N"
+      ]
+    },
+    "plain_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "N"
+      ]
+    },
+    "stability_score": 1.4999999999999998,
+    "participation_ratio": 0.3333333333333333,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyrimidine",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 7,
+      "top3": [
+        7,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "N"
+      ]
+    },
+    "plain_rw": {
+      "top1": 9,
+      "top3": [
+        9,
+        0,
+        7
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "N",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.6233811758190078,
+    "participation_ratio": 0.6472694970409802,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyridazine",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        9,
+        5
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        5,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.609467547102898,
+    "participation_ratio": 0.3693432414442618,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyrazine",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 8,
+      "top3": [
+        8,
+        6,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "N"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        6,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "N"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        5,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.5729490168751573,
+    "participation_ratio": 0.36651013629595774,
+    "topological_entropy": null
+  },
+  {
+    "name": "imidazole",
+    "num_atoms": 9,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "N",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        1
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.7132138560236349,
+    "participation_ratio": 0.45816114142907616,
+    "topological_entropy": null
+  },
+  {
+    "name": "oxazole",
+    "num_atoms": 8,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 5,
+      "top3": [
+        5,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 7,
+      "top3": [
+        7,
+        0,
+        5
+      ],
+      "top3_elements": [
+        "H",
+        "O",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.737278201228992,
+    "participation_ratio": 0.6499373272989319,
+    "topological_entropy": null
+  },
+  {
+    "name": "thiazole",
+    "num_atoms": 8,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 5,
+      "top3": [
+        5,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "S"
+      ]
+    },
+    "plain_rw": {
+      "top1": 7,
+      "top3": [
+        7,
+        0,
+        5
+      ],
+      "top3_elements": [
+        "H",
+        "S",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "S",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.737278201228992,
+    "participation_ratio": 0.6499373272989319,
+    "topological_entropy": null
+  },
+  {
+    "name": "acenaphthylene",
+    "num_atoms": 20,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        15,
+        14
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        9,
+        19
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        9,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.3060326820072622,
+    "participation_ratio": 0.6226510729402452,
+    "topological_entropy": null
+  },
+  {
+    "name": "fluorene",
+    "num_atoms": 23,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 12,
+      "top3": [
+        12,
+        11,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.17227387295412885,
+    "participation_ratio": 0.30922319356213934,
+    "topological_entropy": null
+  },
+  {
+    "name": "phenanthrene",
+    "num_atoms": 24,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        8,
+        19
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 16,
+      "top3": [
+        16,
+        10,
+        22
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        8,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.1603099860045714,
+    "participation_ratio": 0.20772551752819526,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyrene",
+    "num_atoms": 26,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        21,
+        23
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        12,
+        24
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        12,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.2139352802376522,
+    "participation_ratio": 0.1189037025227993,
+    "topological_entropy": null
+  },
+  {
+    "name": "chrysene",
+    "num_atoms": 30,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        24
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 18,
+      "top3": [
+        18,
+        8,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        0,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.10624197654088625,
+    "participation_ratio": 0.4875567901279953,
+    "topological_entropy": null
+  },
+  {
+    "name": "triphenylene",
+    "num_atoms": 30,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 8,
+      "top3": [
+        8,
+        0,
+        21
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 18,
+      "top3": [
+        18,
+        12,
+        26
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 12,
+      "top3": [
+        12,
+        8,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.1620930088366799,
+    "participation_ratio": 0.34881050193399477,
+    "topological_entropy": null
+  },
+  {
+    "name": "naphthacene",
+    "num_atoms": 30,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        23,
+        25
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 18,
+      "top3": [
+        18,
+        20,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.0962712642444502,
+    "participation_ratio": 0.3633659834005388,
+    "topological_entropy": null
+  },
+  {
+    "name": "perylene",
+    "num_atoms": 32,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 22,
+      "top3": [
+        22,
+        23,
+        13
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 13,
+      "top3": [
+        13,
+        12,
+        31
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 13,
+      "top3": [
+        13,
+        12,
+        11
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.14121339400295718,
+    "participation_ratio": 0.44429898680201846,
+    "topological_entropy": null
+  },
+  {
+    "name": "coronene",
+    "num_atoms": 36,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        5,
+        33
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 14,
+      "top3": [
+        14,
+        12,
+        25
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 14,
+      "top3": [
+        14,
+        12,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 5,
+      "top3": [
+        5,
+        3,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.20749773209698655,
+    "participation_ratio": 0.28755562271445584,
+    "topological_entropy": null
+  },
+  {
+    "name": "indene",
+    "num_atoms": 17,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        6,
+        13
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 13,
+      "top3": [
+        13,
+        9,
+        10
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 7,
+      "top3": [
+        7,
+        0,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.29170630052299173,
+    "participation_ratio": 0.2102264924164206,
+    "topological_entropy": null
+  },
+  {
+    "name": "glycine",
+    "num_atoms": 10,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 7,
+      "top3": [
+        7,
+        8,
+        2
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "N"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "stability_score": 0.31494733338843933,
+    "participation_ratio": 0.47019730277427846,
+    "topological_entropy": null
+  },
+  {
+    "name": "alanine",
+    "num_atoms": 13,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 12,
+      "top3": [
+        12,
+        11,
+        10
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        3
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.2792486259542263,
+    "participation_ratio": 0.3363461900238663,
+    "topological_entropy": null
+  },
+  {
+    "name": "phenylalanine",
+    "num_atoms": 23,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 22,
+      "top3": [
+        22,
+        17,
+        18
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        4
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.09650715881136143,
+    "participation_ratio": 0.2336176915626931,
+    "topological_entropy": null
+  },
+  {
+    "name": "tryptophan",
+    "num_atoms": 27,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 26,
+      "top3": [
+        26,
+        23,
+        24
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        7
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.07895395582675077,
+    "participation_ratio": 0.19742661427725394,
+    "topological_entropy": null
+  },
+  {
+    "name": "cysteine",
+    "num_atoms": 14,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 12,
+      "top3": [
+        12,
+        0,
+        10
+      ],
+      "top3_elements": [
+        "H",
+        "S",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        9,
+        8
+      ],
+      "top3_elements": [
+        "S",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        4,
+        9
+      ],
+      "top3_elements": [
+        "S",
+        "C",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.24281353750807225,
+    "participation_ratio": 0.5153661877110856,
+    "topological_entropy": null
+  },
+  {
+    "name": "adenine",
+    "num_atoms": 15,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        10
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 11,
+      "top3": [
+        11,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "N"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 5,
+      "top3": [
+        5,
+        6,
+        7
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.27477707816064545,
+    "participation_ratio": 0.5461715672399508,
+    "topological_entropy": null
+  },
+  {
+    "name": "guanine",
+    "num_atoms": 16,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 13,
+      "top3": [
+        13,
+        5,
+        8
+      ],
+      "top3_elements": [
+        "H",
+        "N",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        6,
+        5
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.23594397183840685,
+    "participation_ratio": 0.5360229725385285,
+    "topological_entropy": null
+  },
+  {
+    "name": "cytosine",
+    "num_atoms": 13,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 3,
+      "top3": [
+        3,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "N",
+        "O",
+        "N"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "N"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        5,
+        3
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        1,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "N",
+        "C"
+      ]
+    },
+    "stability_score": 0.3282905610906724,
+    "participation_ratio": 0.36116911484790076,
+    "topological_entropy": null
+  },
+  {
+    "name": "thymine",
+    "num_atoms": 15,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 4,
+      "top3": [
+        4,
+        0,
+        9
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        2,
+        1
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        4,
+        3
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "N"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        6,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.25803948951350486,
+    "participation_ratio": 0.40339472830645945,
+    "topological_entropy": null
+  },
+  {
+    "name": "uracil",
+    "num_atoms": 12,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        10,
+        11
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "O",
+        "N",
+        "N"
+      ]
+    },
+    "coined_rw": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        7
+      ],
+      "top3_elements": [
+        "N",
+        "N",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 5,
+      "top3": [
+        5,
+        6,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.5729490168751574,
+    "participation_ratio": 0.32918823894372123,
+    "topological_entropy": null
+  },
+  {
+    "name": "retinol",
+    "num_atoms": 51,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 47,
+      "top3": [
+        47,
+        0,
+        16
+      ],
+      "top3_elements": [
+        "H",
+        "O",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        48,
+        49
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        19,
+        49
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.0202528443144816,
+    "participation_ratio": 0.11376259970253894,
+    "topological_entropy": null
+  },
+  {
+    "name": "thiamine",
+    "num_atoms": 35,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "S"
+      ]
+    },
+    "plain_rw": {
+      "top1": 22,
+      "top3": [
+        22,
+        0,
+        9
+      ],
+      "top3_elements": [
+        "H",
+        "S",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 9,
+      "top3": [
+        9,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "N",
+        "S"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        6,
+        8
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.04649050118047502,
+    "participation_ratio": 0.35027582373366484,
+    "topological_entropy": null
+  },
+  {
+    "name": "riboflavin",
+    "num_atoms": 47,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 37,
+      "top3": [
+        37,
+        29,
+        28
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        27,
+        11
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 11,
+      "top3": [
+        11,
+        0,
+        12
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 10,
+      "top3": [
+        10,
+        11,
+        12
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.03419500185427418,
+    "participation_ratio": 0.30348581489749354,
+    "topological_entropy": null
+  },
+  {
+    "name": "pyridoxine",
+    "num_atoms": 23,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        7
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        4
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        7,
+        4
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 4,
+      "top3": [
+        4,
+        5,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.15676939223123795,
+    "participation_ratio": 0.2481759816107738,
+    "topological_entropy": null
+  },
+  {
+    "name": "nicotinamide",
+    "num_atoms": 15,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 7,
+      "top3": [
+        7,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "N",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        6
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        4,
+        5
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.19840413199915546,
+    "participation_ratio": 0.3415748541378609,
+    "topological_entropy": null
+  },
+  {
+    "name": "testosterone",
+    "num_atoms": 49,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 29,
+      "top3": [
+        29,
+        30,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        28,
+        12
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 12,
+      "top3": [
+        12,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.07156077217143778,
+    "participation_ratio": 0.2409134308565232,
+    "topological_entropy": null
+  },
+  {
+    "name": "estradiol",
+    "num_atoms": 44,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 26,
+      "top3": [
+        26,
+        27,
+        0
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        23,
+        10
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 10,
+      "top3": [
+        10,
+        0,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.07927936276496703,
+    "participation_ratio": 0.268446700581123,
+    "topological_entropy": null
+  },
+  {
+    "name": "cholesterol",
+    "num_atoms": 74,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 47,
+      "top3": [
+        47,
+        46,
+        52
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        58,
+        19
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 19,
+      "top3": [
+        19,
+        18,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.02020247820484378,
+    "participation_ratio": 0.17028237108760394,
+    "topological_entropy": null
+  },
+  {
+    "name": "quercetin",
+    "num_atoms": 32,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 22,
+      "top3": [
+        22,
+        24,
+        13
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "C"
+      ]
+    },
+    "plain_rw": {
+      "top1": 27,
+      "top3": [
+        27,
+        3,
+        11
+      ],
+      "top3_elements": [
+        "H",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 11,
+      "top3": [
+        11,
+        7,
+        14
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 7,
+      "top3": [
+        7,
+        8,
+        9
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.06533207531616236,
+    "participation_ratio": 0.33306897755255993,
+    "topological_entropy": null
+  },
+  {
+    "name": "luteolin",
+    "num_atoms": 31,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 22,
+      "top3": [
+        22,
+        7,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "C",
+        "O"
+      ]
+    },
+    "plain_rw": {
+      "top1": 11,
+      "top3": [
+        11,
+        2,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "O"
+      ]
+    },
+    "coined_rw": {
+      "top1": 11,
+      "top3": [
+        11,
+        6,
+        13
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.06555723417433672,
+    "participation_ratio": 0.1669128217592452,
+    "topological_entropy": null
+  },
+  {
+    "name": "catechin",
+    "num_atoms": 35,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 9,
+      "top3": [
+        9,
+        6,
+        25
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        22,
+        6
+      ],
+      "top3_elements": [
+        "O",
+        "H",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 6,
+      "top3": [
+        6,
+        13,
+        9
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "eigenvector": {
+      "top1": 6,
+      "top3": [
+        6,
+        7,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.06447522531941106,
+    "participation_ratio": 0.3886297259333867,
+    "topological_entropy": null
+  },
+  {
+    "name": "acrolein",
+    "num_atoms": 8,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        5
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 5,
+      "top3": [
+        5,
+        0,
+        1
+      ],
+      "top3_elements": [
+        "H",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        5,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        2
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.4019237886466845,
+    "participation_ratio": 0.5261329166013177,
+    "topological_entropy": null
+  },
+  {
+    "name": "methyl vinyl ketone",
+    "num_atoms": 11,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 3,
+      "top3": [
+        3,
+        8,
+        9
+      ],
+      "top3_elements": [
+        "C",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "C"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        3,
+        0
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "O"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.2381684972487595,
+    "participation_ratio": 0.18671052709779287,
+    "topological_entropy": null
+  },
+  {
+    "name": "acrylonitrile",
+    "num_atoms": 7,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        4
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        6
+      ],
+      "top3_elements": [
+        "N",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 1,
+      "top3": [
+        1,
+        0,
+        6
+      ],
+      "top3_elements": [
+        "C",
+        "N",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 1,
+      "top3": [
+        1,
+        2,
+        3
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.48257947493671244,
+    "participation_ratio": 0.660531108412286,
+    "topological_entropy": null
+  },
+  {
+    "name": "methyl acrylate",
+    "num_atoms": 12,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "conjugated_c",
+    "quantum_walk": {
+      "top1": 0,
+      "top3": [
+        0,
+        1,
+        7
+      ],
+      "top3_elements": [
+        "O",
+        "O",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 8,
+      "top3": [
+        8,
+        7,
+        6
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 4,
+      "top3": [
+        4,
+        0,
+        8
+      ],
+      "top3_elements": [
+        "C",
+        "O",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 3,
+      "top3": [
+        3,
+        2,
+        4
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "C"
+      ]
+    },
+    "stability_score": 0.17533693579655696,
+    "participation_ratio": 0.5966470666336464,
+    "topological_entropy": null
+  },
+  {
+    "name": "acetaldehyde oxime",
+    "num_atoms": 9,
+    "steps": 10,
+    "initial_node": 0,
+    "lit_expected": "heteroatom",
+    "quantum_walk": {
+      "top1": 8,
+      "top3": [
+        8,
+        5,
+        4
+      ],
+      "top3_elements": [
+        "H",
+        "H",
+        "H"
+      ]
+    },
+    "plain_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "H"
+      ]
+    },
+    "coined_rw": {
+      "top1": 0,
+      "top3": [
+        0,
+        3,
+        4
+      ],
+      "top3_elements": [
+        "O",
+        "C",
+        "H"
+      ]
+    },
+    "eigenvector": {
+      "top1": 2,
+      "top3": [
+        2,
+        3,
+        1
+      ],
+      "top3_elements": [
+        "C",
+        "C",
+        "N"
+      ]
+    },
+    "stability_score": 0.30334801905386816,
+    "participation_ratio": 0.63452291025979,
+    "topological_entropy": null
+  }
+]

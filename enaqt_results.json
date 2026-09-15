@@ -1,0 +1,582 @@
+{
+  "benzene": {
+    "molecule": "?",
+    "num_atoms": 12,
+    "steps": 6,
+    "source": 0,
+    "sink": 3,
+    "source_element": "C",
+    "sink_element": "C",
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.48898016370317193
+      },
+      {
+        "gamma": 0.05,
+        "efficiency": 1.0,
+        "sink_at_final": 0.48140764698191707
+      },
+      {
+        "gamma": 0.1,
+        "efficiency": 1.0,
+        "sink_at_final": 0.4736862666315606
+      },
+      {
+        "gamma": 0.15,
+        "efficiency": 1.0,
+        "sink_at_final": 0.4658437292443464
+      },
+      {
+        "gamma": 0.2,
+        "efficiency": 1.0,
+        "sink_at_final": 0.45790363548493224
+      },
+      {
+        "gamma": 0.25,
+        "efficiency": 1.0,
+        "sink_at_final": 0.4498855021174895
+      },
+      {
+        "gamma": 0.3,
+        "efficiency": 1.0,
+        "sink_at_final": 0.4418049247145097
+      },
+      {
+        "gamma": 0.35,
+        "efficiency": 1.0,
+        "sink_at_final": 0.4336738188612752
+      },
+      {
+        "gamma": 0.4,
+        "efficiency": 1.0,
+        "sink_at_final": 0.42550069188189354
+      },
+      {
+        "gamma": 0.45,
+        "efficiency": 0.9867425372884331,
+        "sink_at_final": 0.41729091142265023
+      },
+      {
+        "gamma": 0.5,
+        "efficiency": 0.9637127485762416,
+        "sink_at_final": 0.4090469497944993
+      },
+      {
+        "gamma": 0.55,
+        "efficiency": 0.9406935643090184,
+        "sink_at_final": 0.4007685930040941
+      },
+      {
+        "gamma": 0.6,
+        "efficiency": 0.9176687349007469,
+        "sink_at_final": 0.3924531107700795
+      },
+      {
+        "gamma": 0.65,
+        "efficiency": 0.8946155064830523,
+        "sink_at_final": 0.38409538877428084
+      },
+      {
+        "gamma": 0.7,
+        "efficiency": 0.8715049177050223,
+        "sink_at_final": 0.375688027335069
+      },
+      {
+        "gamma": 0.75,
+        "efficiency": 0.8483019993042993,
+        "sink_at_final": 0.36722141202655745
+      },
+      {
+        "gamma": 0.8,
+        "efficiency": 0.8249658689845064,
+        "sink_at_final": 0.358683761841727
+      },
+      {
+        "gamma": 0.85,
+        "efficiency": 0.8014497100311888,
+        "sink_at_final": 0.3500611595039614
+      },
+      {
+        "gamma": 0.9,
+        "efficiency": 0.777700614976913,
+        "sink_at_final": 0.34133756643396207
+      },
+      {
+        "gamma": 0.95,
+        "efficiency": 0.7536592643186941,
+        "sink_at_final": 0.33249482127020724
+      },
+      {
+        "gamma": 1.0,
+        "efficiency": 0.7292593923374673,
+        "sink_at_final": 0.32351261466958214
+      }
+    ]
+  },
+  "naphthalene": {
+    "molecule": "?",
+    "num_atoms": 18,
+    "steps": 9,
+    "source": 0,
+    "sink": 3,
+    "source_element": "C",
+    "sink_element": "C",
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.05,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.1,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.15,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.2,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.25,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.3,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.35,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.4,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.45,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.5,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.55,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.6,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.65,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.7,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.75,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.8,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.85,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.9,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.95,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 1.0,
+        "efficiency": 0.9776120045687309,
+        "sink_at_final": 0.0
+      }
+    ]
+  },
+  "anthracene": {
+    "molecule": "?",
+    "num_atoms": 24,
+    "steps": 12,
+    "source": 0,
+    "sink": 2,
+    "source_element": "C",
+    "sink_element": "C",
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.4071793583787381
+      },
+      {
+        "gamma": 0.05,
+        "efficiency": 1.0,
+        "sink_at_final": 0.39957364903854387
+      },
+      {
+        "gamma": 0.1,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3918266305571361
+      },
+      {
+        "gamma": 0.15,
+        "efficiency": 1.0,
+        "sink_at_final": 0.38396603573916027
+      },
+      {
+        "gamma": 0.2,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3760176815550748
+      },
+      {
+        "gamma": 0.25,
+        "efficiency": 1.0,
+        "sink_at_final": 0.368004936738567
+      },
+      {
+        "gamma": 0.3,
+        "efficiency": 1.0,
+        "sink_at_final": 0.35994836832015464
+      },
+      {
+        "gamma": 0.35,
+        "efficiency": 1.0,
+        "sink_at_final": 0.35186554942883125
+      },
+      {
+        "gamma": 0.4,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3437710015881562
+      },
+      {
+        "gamma": 0.45,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3356762408972653
+      },
+      {
+        "gamma": 0.5,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3275898976046226
+      },
+      {
+        "gamma": 0.55,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3195178812017549
+      },
+      {
+        "gamma": 0.6,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3114635670124287
+      },
+      {
+        "gamma": 0.65,
+        "efficiency": 1.0,
+        "sink_at_final": 0.303427984373221
+      },
+      {
+        "gamma": 0.7,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2954099902671468
+      },
+      {
+        "gamma": 0.75,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2874064153276371
+      },
+      {
+        "gamma": 0.8,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2794121713074267
+      },
+      {
+        "gamma": 0.85,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2714203103385974
+      },
+      {
+        "gamma": 0.9,
+        "efficiency": 1.0,
+        "sink_at_final": 0.263422026552833
+      },
+      {
+        "gamma": 0.95,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2554065897959425
+      },
+      {
+        "gamma": 1.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.24736119905063114
+      }
+    ]
+  },
+  "tetracene": {
+    "molecule": "?",
+    "num_atoms": 30,
+    "steps": 15,
+    "source": 0,
+    "sink": 2,
+    "source_element": "C",
+    "sink_element": "C",
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.05,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.1,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.15,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.2,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.25,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.3,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.35,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.4,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.45,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.5,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.55,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.6,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.65,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.7,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.75,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.8,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.85,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.9,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 0.95,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      },
+      {
+        "gamma": 1.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.0
+      }
+    ]
+  },
+  "pentacene": {
+    "molecule": "?",
+    "num_atoms": 36,
+    "steps": 18,
+    "source": 0,
+    "sink": 2,
+    "source_element": "C",
+    "sink_element": "C",
+    "gamma_sweep": [
+      {
+        "gamma": 0.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.37009825542551983
+      },
+      {
+        "gamma": 0.05,
+        "efficiency": 1.0,
+        "sink_at_final": 0.36538817054076966
+      },
+      {
+        "gamma": 0.1,
+        "efficiency": 1.0,
+        "sink_at_final": 0.36054668822012853
+      },
+      {
+        "gamma": 0.15,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3555885891180196
+      },
+      {
+        "gamma": 0.2,
+        "efficiency": 1.0,
+        "sink_at_final": 0.35052811374736415
+      },
+      {
+        "gamma": 0.25,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3453786120983471
+      },
+      {
+        "gamma": 0.3,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3401522663466102
+      },
+      {
+        "gamma": 0.35,
+        "efficiency": 1.0,
+        "sink_at_final": 0.33485988556641477
+      },
+      {
+        "gamma": 0.4,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3295107661819206
+      },
+      {
+        "gamma": 0.45,
+        "efficiency": 1.0,
+        "sink_at_final": 0.324112608684611
+      },
+      {
+        "gamma": 0.5,
+        "efficiency": 1.0,
+        "sink_at_final": 0.31867147963962955
+      },
+      {
+        "gamma": 0.55,
+        "efficiency": 1.0,
+        "sink_at_final": 0.3131918077529618
+      },
+      {
+        "gamma": 0.6,
+        "efficiency": 1.0,
+        "sink_at_final": 0.30767640329263796
+      },
+      {
+        "gamma": 0.65,
+        "efficiency": 1.0,
+        "sink_at_final": 0.30212649101515415
+      },
+      {
+        "gamma": 0.7,
+        "efficiency": 1.0,
+        "sink_at_final": 0.29654174759402546
+      },
+      {
+        "gamma": 0.75,
+        "efficiency": 1.0,
+        "sink_at_final": 0.29092033512299714
+      },
+      {
+        "gamma": 0.8,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2852589223887533
+      },
+      {
+        "gamma": 0.85,
+        "efficiency": 1.0,
+        "sink_at_final": 0.27955268513835313
+      },
+      {
+        "gamma": 0.9,
+        "efficiency": 1.0,
+        "sink_at_final": 0.27379527537193954
+      },
+      {
+        "gamma": 0.95,
+        "efficiency": 1.0,
+        "sink_at_final": 0.2679787475932904
+      },
+      {
+        "gamma": 1.0,
+        "efficiency": 1.0,
+        "sink_at_final": 0.26209342665563634
+      }
+    ]
+  }
+}

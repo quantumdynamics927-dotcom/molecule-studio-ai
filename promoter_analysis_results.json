@@ -1,0 +1,487 @@
+{
+  "ACTB": {
+    "gene": "ACTB",
+    "name": "Beta-actin",
+    "sephirah": "Malkuth",
+    "strand": "-",
+    "gene_context": "Housekeeping / cytoskeletal",
+    "length": 81,
+    "GC_pct": 65.43,
+    "AT_pct": 34.57,
+    "CpG_count": 5,
+    "CpG_OE": 1.728,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 1,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 0,
+    "Inr_count": 0,
+    "DPE_count": 2,
+    "motifs": {
+      "DPE": [
+        [
+          12,
+          "AATC"
+        ],
+        [
+          52,
+          "GATC"
+        ]
+      ],
+      "E_box": [
+        [
+          60,
+          "CATTG"
+        ]
+      ]
+    },
+    "known_biology": {
+      "has_GC_box": false,
+      "expected_housekeeping": true
+    }
+  },
+  "BDNF": {
+    "gene": "BDNF",
+    "name": "Brain-derived neurotrophic factor",
+    "sephirah": "Tiferet",
+    "strand": "-",
+    "gene_context": "Activity-dependent neuronal growth factor",
+    "length": 81,
+    "GC_pct": 56.79,
+    "AT_pct": 43.21,
+    "CpG_count": 5,
+    "CpG_OE": 1.244,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 0,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 0,
+    "Inr_count": 1,
+    "DPE_count": 0,
+    "motifs": {
+      "Inr": [
+        [
+          16,
+          "TCCC"
+        ]
+      ],
+      "BRE": [
+        [
+          0,
+          "GCCGCC"
+        ]
+      ]
+    },
+    "known_biology": {
+      "has_CRE": false,
+      "has_GC_box": false,
+      "has_TATA": false,
+      "expected_CRE": true
+    }
+  },
+  "DCTN1": {
+    "gene": "DCTN1",
+    "name": "Dynactin subunit 1",
+    "sephirah": "Binah",
+    "strand": "-",
+    "gene_context": "Microtubule motor complex, neuronal",
+    "length": 81,
+    "GC_pct": 56.79,
+    "AT_pct": 43.21,
+    "CpG_count": 6,
+    "CpG_OE": 1.07,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 1,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 1,
+    "Inr_count": 5,
+    "DPE_count": 2,
+    "motifs": {
+      "Inr": [
+        [
+          12,
+          "TCTT"
+        ],
+        [
+          20,
+          "TCCT"
+        ],
+        [
+          32,
+          "TCCC"
+        ],
+        [
+          58,
+          "TCCT"
+        ],
+        [
+          63,
+          "TCCC"
+        ]
+      ],
+      "DPE": [
+        [
+          8,
+          "GATT"
+        ],
+        [
+          24,
+          "AATC"
+        ]
+      ],
+      "E_box": [
+        [
+          41,
+          "CAGTG"
+        ]
+      ],
+      "ETS_GABP": [
+        [
+          31,
+          "TTCC"
+        ]
+      ]
+    },
+    "known_biology": {}
+  },
+  "FOS": {
+    "gene": "FOS",
+    "name": "c-Fos",
+    "sephirah": "Netzach",
+    "strand": "+",
+    "gene_context": "Immediate-early response, neuronal activity",
+    "length": 81,
+    "GC_pct": 54.32,
+    "AT_pct": 45.68,
+    "CpG_count": 6,
+    "CpG_OE": 0.994,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 1,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 0,
+    "Inr_count": 0,
+    "DPE_count": 0,
+    "motifs": {
+      "E_box": [
+        [
+          17,
+          "CAGTG"
+        ]
+      ]
+    },
+    "known_biology": {
+      "has_AP1": false,
+      "has_TATA": false,
+      "expected_AP1": true
+    }
+  },
+  "FOXG1": {
+    "gene": "FOXG1",
+    "name": "Forkhead box G1",
+    "sephirah": "Kether",
+    "strand": "+",
+    "gene_context": "Forkhead transcription factor, brain development",
+    "length": 81,
+    "GC_pct": 54.32,
+    "AT_pct": 45.68,
+    "CpG_count": 8,
+    "CpG_OE": 0.648,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 0,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 1,
+    "Inr_count": 2,
+    "DPE_count": 2,
+    "motifs": {
+      "Inr": [
+        [
+          4,
+          "TCCT"
+        ],
+        [
+          9,
+          "TCCC"
+        ]
+      ],
+      "DPE": [
+        [
+          16,
+          "AATC"
+        ],
+        [
+          31,
+          "AATC"
+        ]
+      ],
+      "ETS_GABP": [
+        [
+          8,
+          "TTCC"
+        ]
+      ]
+    },
+    "known_biology": {}
+  },
+  "JUN": {
+    "gene": "JUN",
+    "name": "c-Jun",
+    "sephirah": "Hod",
+    "strand": "-",
+    "gene_context": "Immediate-early response, AP-1 component",
+    "length": 81,
+    "GC_pct": 56.79,
+    "AT_pct": 43.21,
+    "CpG_count": 3,
+    "CpG_OE": 1.765,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 1,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 1,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 0,
+    "Inr_count": 0,
+    "DPE_count": 0,
+    "motifs": {
+      "AP1": [
+        [
+          0,
+          "TGAC"
+        ]
+      ],
+      "E_box": [
+        [
+          52,
+          "CACTG"
+        ]
+      ]
+    },
+    "known_biology": {
+      "has_AP1": true,
+      "expected_AP1": true
+    }
+  },
+  "NCAM1": {
+    "gene": "NCAM1",
+    "name": "Neural cell adhesion molecule 1",
+    "sephirah": "Chokmah",
+    "strand": "+",
+    "gene_context": "Neural cell adhesion, synaptic plasticity",
+    "length": 81,
+    "GC_pct": 55.56,
+    "AT_pct": 44.44,
+    "CpG_count": 3,
+    "CpG_OE": 2.082,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 1,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 0,
+    "Inr_count": 4,
+    "DPE_count": 0,
+    "motifs": {
+      "Inr": [
+        [
+          7,
+          "TCCC"
+        ],
+        [
+          14,
+          "TCTC"
+        ],
+        [
+          18,
+          "TCTT"
+        ],
+        [
+          25,
+          "TCCT"
+        ]
+      ],
+      "E_box": [
+        [
+          70,
+          "CAGTG"
+        ]
+      ]
+    },
+    "known_biology": {}
+  },
+  "OXT": {
+    "gene": "OXT",
+    "name": "Oxytocin",
+    "sephirah": "Chesed",
+    "strand": "+",
+    "gene_context": "Neuropeptide, hypothalamic",
+    "length": 81,
+    "GC_pct": 66.67,
+    "AT_pct": 33.33,
+    "CpG_count": 5,
+    "CpG_OE": 1.738,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 1,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 1,
+    "ETS_GABP_count": 0,
+    "Inr_count": 0,
+    "DPE_count": 0,
+    "motifs": {
+      "E_box": [
+        [
+          0,
+          "CAATG"
+        ]
+      ],
+      "p53_half": [
+        [
+          8,
+          "AGGCATAAA"
+        ]
+      ],
+      "p53_full": [
+        [
+          8,
+          "AGGCATAAAAA"
+        ]
+      ]
+    },
+    "known_biology": {}
+  },
+  "SRY": {
+    "gene": "SRY",
+    "name": "Sex-determining region Y",
+    "sephirah": "Yesod",
+    "strand": "-",
+    "gene_context": "Sex determination, HMG-box TF",
+    "length": 81,
+    "GC_pct": 32.1,
+    "AT_pct": 67.9,
+    "CpG_count": 2,
+    "CpG_OE": 0.944,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 0,
+    "SRY_HMG_count": 1,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 0,
+    "Inr_count": 0,
+    "DPE_count": 1,
+    "motifs": {
+      "DPE": [
+        [
+          32,
+          "AATC"
+        ]
+      ],
+      "SRY_HMG": [
+        [
+          25,
+          "AACAAAG"
+        ]
+      ]
+    },
+    "known_biology": {
+      "has_HMG": true,
+      "has_TATA": false,
+      "expected_HMG": true
+    }
+  },
+  "TP53": {
+    "gene": "TP53",
+    "name": "Tumor protein p53",
+    "sephirah": "Gevurah",
+    "strand": "-",
+    "gene_context": "Tumor suppressor, stress response",
+    "length": 81,
+    "GC_pct": 59.26,
+    "AT_pct": 40.74,
+    "CpG_count": 2,
+    "CpG_OE": 3.531,
+    "GC_box_count": 0,
+    "TATA_count": 0,
+    "CAAT_count": 0,
+    "AP1_count": 0,
+    "CRE_count": 0,
+    "CRE_half_count": 0,
+    "E_box_count": 0,
+    "SRY_HMG_count": 0,
+    "p53_half_count": 0,
+    "ETS_GABP_count": 1,
+    "Inr_count": 2,
+    "DPE_count": 1,
+    "motifs": {
+      "Inr": [
+        [
+          52,
+          "TCCC"
+        ],
+        [
+          57,
+          "TCCC"
+        ]
+      ],
+      "DPE": [
+        [
+          41,
+          "GATT"
+        ]
+      ],
+      "ETS_GABP": [
+        [
+          51,
+          "TTCC"
+        ]
+      ]
+    },
+    "known_biology": {
+      "has_p53": false,
+      "has_GC_box": false,
+      "expected_TP53": true
+    }
+  }
+}
